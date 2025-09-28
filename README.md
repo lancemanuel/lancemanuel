@@ -1,4 +1,7 @@
-## Hi there 👋
+## Lance Manuel
+### Professor, UT-Austin
+* teaching CE329 this semester, Fall 2025
+* teaching CE394P nest semester, Spring 2026
 
 <!--
 **lancemanuel/lancemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
